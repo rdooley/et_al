@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# ctags garbage
+tags
+
+# vim garbage
+*.swp
