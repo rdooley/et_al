@@ -9,7 +9,7 @@ import json
 import os
 
 
-FRONT_END_DIR = os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')), 'front_end')
+FRONT_END_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'front_end')
 
 
 @error(400)
